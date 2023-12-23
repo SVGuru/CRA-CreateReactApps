@@ -1,0 +1,22 @@
+npx create-react-app reactproj
+
+npm start
+
+Teacher Procareer26:55 PM
+App.js => collapse header and delete it or remove it
+Sireesha Puppala6:55 PM
+add a <h1> Hellof rom React! </h1>
+to the main div
+function App() {
+  return (
+    <div className="App">
+        <h1> Hello from My First React App! </h1>
+       
+    </div>
+  );
+}
+Sireesha Puppala6:56 PM
+start the server by saying npm start at command prompt of this project
+Sireesha Puppala6:58 PM
+you should see the aboev text in the default browser
+now , create a components folder under src
